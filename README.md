@@ -1,6 +1,7 @@
 [![Hex.pm](https://img.shields.io/hexpm/v/azure.svg)](https://hex.pm/packages/azure)
 ![CI](https://github.com/joeapearson/elixir-azure/actions/workflows/ci.yml/badge.svg)
 
+
 # Elixir Azure
 
 Azure storage support for Elixir.
